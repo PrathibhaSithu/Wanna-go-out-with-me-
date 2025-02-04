@@ -16,4 +16,3 @@ This project is a playful way to ask someone out in a cute and engaging manner. 
 - **JavaScript** – Button interactions and animations  
 
 ## ⭐ If you like this project, don't forget to star the repository! ⭐ 
-
