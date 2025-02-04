@@ -41,15 +41,6 @@ body {
     margin-bottom: 20px;
 }
 
-.buttons {
-    margin-top: 20px;
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-}
-
-/* 
-
 .btn-group {
     width: 100%;
     height: 40px;
@@ -77,4 +68,4 @@ button:nth-child(1) {
 button:nth-child(2) {
     margin-right: -200px;
     color: #7d2ae8;
-} */
+}
