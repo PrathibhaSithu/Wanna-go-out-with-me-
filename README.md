@@ -15,13 +15,5 @@ This project is a playful way to ask someone out in a cute and engaging manner. 
 - **CSS** – Styling and layout design  
 - **JavaScript** – Button interactions and animations  
 
-## 🎮 Live Demo  
-👉 [Check it out here!](#) *(Replace with your GitHub Pages link if hosted)*  
+## ⭐ If you like this project, don't forget to star the repository! ⭐ 
 
-## 📸 Screenshot  
-![Project Preview](screenshot.png) *(Add an actual screenshot of your project here!)*  
-
-## 🚀 How to Run Locally  
-1. Clone this repository:  
-   ```sh
-   git clone https://github.com/your-username/will-you-be-my-valentine.git
