@@ -5,7 +5,7 @@ const noBtn = document.querySelector('.no-btn');
 const containerRect = container.getBoundingClientRect();
 const noBtnRect = noBtn.getBoundingClientRect();
 yesBtn.addEventListener('click', () => {
-    header_text.innerHTML = 'I Knew You Say Yes..! :)';
+    header_text.innerHTML = 'I Knew You Say Yes..! 💖💖';
 });
 noBtn.addEventListener('mouseover', () => {
     const i = Math.floor(Math.random() * (containerRect.width - noBtnRect.width)) + 1;
