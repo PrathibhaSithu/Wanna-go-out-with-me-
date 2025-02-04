@@ -1,7 +1,6 @@
 # 💖 Wanna Go Out With Me 💖 
 
-
-Welcome to **"Will You Be My Valentine?"**, a fun and interactive web page designed to bring smiles and laughter! 🎉  
+Welcome to **"Wanna Go Out With Me ?"**, a fun and interactive web page designed to bring smiles and laughter! 🎉  
 
 ## 🌟 Project Overview  
 This project is a playful way to ask someone out in a cute and engaging manner. The webpage features an adorable **Bugcat Capoo** GIF and two buttons – **"Yes"** and **"No"** – but there's a twist! 😆  
